@@ -1,2 +1,3 @@
-# React-Projetos 🖋️📰
-Destinado a criação e postagem de projetos criados com a biblioteca React JS 
+# Formulario-React 🖋️📰
+Destinado a postagem do projeto de um formulário criados com a biblioteca React JS.
+
