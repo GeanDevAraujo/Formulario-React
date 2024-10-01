@@ -1,3 +1,3 @@
 # Formulario-React 🖋️📰
-Destinado a postagem do projeto de um formulário criados com a biblioteca React JS.
 
+Um pouco de React em um formulário.
